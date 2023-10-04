@@ -63,3 +63,50 @@ public class Main {
     }
 
 }
+
+/**
+ * 출력 결과
+ * class name: :Collection, class package name : java.util
+ * class Collection implements: Iterable
+ * is array: false
+ * is primitive: false
+ * is enum: false
+ * is interface: true
+ * is anonymous: false
+ *
+ *
+ * class name: :boolean, class package name : java.lang
+ * is array: false
+ * is primitive: true
+ * is enum: false
+ * is interface: false
+ * is anonymous: false
+ *
+ *
+ * class name: :int[][], class package name : java.lang
+ * class int[][] implements: Cloneable
+ * class int[][] implements: Serializable
+ * is array: true
+ * is primitive: false
+ * is enum: false
+ * is interface: false
+ * is anonymous: false
+ *
+ *
+ * class name: :Color, class package name :
+ * is array: false
+ * is primitive: false
+ * is enum: true
+ * is interface: false
+ * is anonymous: false
+ *
+ *
+ * class name: :, class package name :
+ * class  implements: Drawable
+ * is array: false
+ * is primitive: false
+ * is enum: false
+ * is interface: false
+ * is anonymous: true
+ *
+ * **/
